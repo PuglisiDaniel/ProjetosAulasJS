@@ -1,0 +1,1 @@
+Calculadora em javascript. É possível usar o enter para realizar as operações
